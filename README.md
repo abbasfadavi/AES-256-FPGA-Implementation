@@ -14,11 +14,6 @@ This repository provides an implementation of **AES-256 encryption** on FPGA.
 - Data storage encryption  
 - Embedded systems  
 
-## Repository Structure
-- `src/` : FPGA source files  
-- `sim/` : MATLAB simulation file  
-- `docs/` : Documentation (if available)  
-
 ## License
 MIT License
 
